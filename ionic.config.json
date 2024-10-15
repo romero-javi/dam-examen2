@@ -1,0 +1,7 @@
+{
+  "name": "proyectoTabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
